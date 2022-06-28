@@ -1,0 +1,5 @@
+Here we have the three output files that would be produced by the script.
+Note that the analyis for any state requires the following two changes
+1. Download the relevant geojson datafiles from Overpass Turbo API
+2. Check how the city-districts (Kreisfreie Stadt) is coded in the state_kries.geojson file. This varies from state to state. In some cases, the 
+the input file from OverpassTurbo will be missing data on whether a district (kries) is a city-district. In that case changes have to made manually.
