@@ -1,0 +1,5 @@
+Here we have the Juypter Ipython notebook that I used to carry out the Analysis for the state of Hessen.
+#Some important points
+1. Running this files requires that the following Python packages are installed: Geopandas, Numpy, Folium and Branca
+2. Running this notebook requires the use of Bing Maps API Key. One can sign up for a basic key at [Here](https://docs.microsoft.com/en-us/bingmaps/getting-started/bing-maps-dev-center-help/getting-a-bing-maps-key#creating-a-bing-maps-key)
+3. Adapting the Notebook for another state requires change in the third block of code. This block corresponds to adding the city-districts to the data on cities/towns.
