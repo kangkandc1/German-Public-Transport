@@ -14,7 +14,7 @@ The last decade has seen an enhanced emphasis on promoting ÖPNV (Public Transpo
 
 5. Relative inaccessibility of destinations that do not lie within the city boundaries with ÖPNV.  
 
-In this Application, we are trying to quantify  the problem arising out of longer travel while using public transit in the different states of Germany. I have completed analysis for 4 states so far. Collarborators are welcome to work on the other states of Germany so that we can cover the whole of the country.
+In this Application, we are trying to quantify  the problem arising out of longer travel while using public transit in the different states of Germany. I have completed analysis for 5 states so far(Nordrhein Westfalen, Niedersachsen, Hessen, Saarland and Bayern). Collarborators are welcome to work on the other states of Germany so that we can cover the whole of the country.
 
 
 
